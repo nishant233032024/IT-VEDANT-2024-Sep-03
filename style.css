@@ -1,0 +1,10 @@
+p {
+	font-family: 'Times New Roman', Times, serif, ;
+	font-size: large;
+	font-weight: bold;
+
+	text-align: justify;
+	color: blueviolet;
+	letter-spacing: 0.05em;
+	text-shadow: 2px 2px 5px orchid;
+}

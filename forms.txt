@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Vincart</title>
+	</head>
+	<body>
+	<h2>Register Form</h2>
+	<form>
+		<label for="Uname">FirstName</label>
+		<input type ="text"><br><br>
+		<label for="Surname">LastName</label>
+		<input type ="text" placeholder="Enter Surname"><br><br>
+		<label for="Contact">Contact Number</label>
+		<input type ="Number"><br><br>
+		Email:
+		<input type="Email"><br><br>
+		Password:
+		<input type="Password"><br><br>
+		DOB:
+		<input type="date"><br><br>
+		Gender:
+		<input type="radio" name="gender">M
+		<input type="radio" name="gender">F
+		<input type="radio" name="gender">LGBT
+		Adress:
+		<text area cols="15"row="4"> </textarea>
+		Select City:
+		<Select>
+		<Option>Mumbai</option>
+		<Option>Pune</option>
+		</Select>
+	</form>
+	</body>
+</html>
